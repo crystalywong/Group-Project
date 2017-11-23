@@ -1,4 +1,4 @@
-#include <iostream>
+\n#include <iostream>
 #include <iomanip>
 #include <cmath>
 #include <stdlib.h>
@@ -16,7 +16,7 @@ int main()
 	//The main loop of the game, only break out when user want to exit
 	while(1){
 		cout << endl;
-		cout << "Welcome to play the puzzle block game. " << endl;
+		cout << "Welcome to play the puzzle block game.\n " << endl;
 		cout << "*** Game Menu ***" << endl;
 		cout << "[1] Start Game" << endl;
 		cout << "[2] Settings" << endl;
