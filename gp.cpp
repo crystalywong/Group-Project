@@ -16,7 +16,7 @@ int main()
 	//The main loop of the game, only break out when user want to exit
 	while(1){
 		cout << endl;
-		cout << "Welcome Message designed by your group\n" << endl;
+		cout << "Welcome to play the puzzle block game. " << endl;
 		cout << "*** Game Menu ***" << endl;
 		cout << "[1] Start Game" << endl;
 		cout << "[2] Settings" << endl;
